@@ -15,6 +15,11 @@ article{
    width: 75%
    
 }
+ 
+ .programa{
+  float: left;
+        margin:1px 15px 0px 0px; 
+ }
 
 .articulos{
     border-radius:15px;
@@ -25,8 +30,7 @@ article{
      }  
      article img {
         float: left;
-        margin:1px 15px 0px 0px;
-                         
+        margin:1px 15px 0px 0px;                  
      }     
    
  aside {
