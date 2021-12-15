@@ -58,21 +58,24 @@ article{
               
 header>img{
    display: flex;
-   flex-basis:175px;
+   flex-basis:130px;
    margin-right: 5px;
-   padding-top: 30px;                  
+   padding-top: 30px;  
+   padding-right: 30px;                
     }
 hgroup {
    flex-grow:1;
    font-family: arial;
     
-   font-size: 18px;
+   font-size: 17px;
    flex-basis:50px;
    text-align:center;
    line-height:1.6;
+
          
     }
    
+
 header{
    background:black;
    background:rgba(0,0,0,0.7);
